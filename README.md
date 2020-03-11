@@ -1,3 +1,12 @@
+## Página principal
+
+### Oscar Alberto Bustos B.
+ Estudiante de Ingeniería de Sistemas y Computación de la
+ Universidad Nacional de Colombia - Sede Bogotá.
+
+---
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/oabustosb/oabustosb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
